@@ -1,0 +1,13 @@
+{
+  "title": "Badges",
+  "items": [
+    {
+      "name": "ISC2",
+      "embed": "<div data-iframe-width=\"150\" data-iframe-height=\"270\" data-share-badge-id=\"dc84538b-7ef0-4f61-963f-1e5809d26b11\" data-share-badge-host=\"https://www.credly.com\"></div><script type=\"text/javascript\" async src=\"https://cdn.credly.com/assets/utilities/embed.js\"></script>"
+    },
+    {
+      "name": "PagerDuty",
+      "embed": "<div data-iframe-width=\"150\" data-iframe-height=\"270\" data-share-badge-id=\"8a2e433f-dc3e-4cb6-b216-80af69f57724\" data-share-badge-host=\"https://www.credly.com\"></div><script type=\"text/javascript\" async src=\"https://cdn.credly.com/assets/utilities/embed.js\"></script>"
+    }
+  ]
+}

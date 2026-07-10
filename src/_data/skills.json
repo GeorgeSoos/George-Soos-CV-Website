@@ -1,0 +1,32 @@
+[
+  {
+    "type": "focus",
+    "focuses": [
+      { "focus": "IT Strategy" },
+      { "focus": "Security" },
+      { "focus": "Customer Support" },
+      { "focus": "Mentoring" },
+      { "focus": "Internal Training" }
+    ]
+  },
+  {
+    "type": "domain",
+    "domains": [
+      { "domain": "Budgeting & Cost Review" },
+      { "domain": "Hardware & Software Lifecycle" }, 
+      { "domain": "User & Identity Management" },
+      { "domain": "Policy" }
+    ]
+  },
+  {
+    "type": "tools",
+    "tools": [
+      { "tool": "M365" },
+      { "tool": "Google Workspace" },
+      { "tool": "Okta" },
+      { "tool": "Jamf" },
+      { "tool": "Ticketing" }
+    ]
+  }
+  
+]

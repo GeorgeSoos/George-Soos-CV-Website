@@ -1,0 +1,8 @@
+<section id="badges" class="py-20 border-t border-border-light dark:border-border-dark text-center">
+  <h2 class="text-3xl font-bold mb-8">{{ badges.title }}</h2>
+  <div class="flex flex-wrap gap-6 items-start">
+    {% for badge in badges.items %}
+      <div>{{ badge.embed | safe }}</div>
+    {% endfor %}
+  </div>
+</section>

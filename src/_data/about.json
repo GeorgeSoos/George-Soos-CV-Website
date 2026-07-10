@@ -1,0 +1,23 @@
+{
+  "title": "About Me",
+  "code": [
+    {
+      "label": "Location",
+      "value": "Bristol, UK"
+    },
+    {
+      "label": "Current Role",
+      "value": "IT Manager"
+    },
+    {
+      "label": "Focus",
+      "value": "Operations & Security"
+    },
+    {
+      "label": "Skills",
+      "value": "React, NextJS, Node.js, 11ty, Tailwind CSS"
+    }
+        
+  ],
+  "textHtml": "My name is György István Soós, but no one likes accented characters, so I just go by <b>George</b>. Nice and easy. <br><br> Are you still wondering how to pronounce my name? Glad you asked, here you go  <br> <br> György &rarr; <span>DYERDJ&nbsp;/ˈɟørɟ/<br> István &rarr; <span>EESHT-vaan&nbsp;/ˈiʃtvaːn/ <br> Soós &rarr; <span>SHOHSH&nbsp;/ˈʃoːʃ/ </span> "
+}

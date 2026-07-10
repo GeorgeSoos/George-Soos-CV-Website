@@ -1,0 +1,33 @@
+{
+  "name": "George Soos",
+  "shortName": "GS",
+  "url": "https://george-soos.com",
+  "canonical": "https://george-soos.com",
+  "lang": "en",
+  "locale": "en_GB",
+  "title": "George Soos Personal Website",
+  "themeColor": "#f8fafc",
+  "backgroundColor": "#031235",
+  "mainNavigation": [
+    {
+      "name": "About",
+      "url": "#about"
+    },
+    {
+      "name": "Skills",
+      "url": "#skills"
+    },
+    { "name": "Badges", 
+       "url": "#badges"
+    },
+    {
+      "name": "Projects",
+      "url": "#projects"
+    },
+    
+    {
+      "name": "Contact",
+      "url": "#contact"
+    }
+  ]
+}
