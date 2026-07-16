@@ -1,31 +1,61 @@
 [
   {
-    "type": "focus",
-    "focuses": [
-      { "focus": "IT Strategy" },
-      { "focus": "Security" },
-      { "focus": "Customer Support" },
-      { "focus": "Mentoring" },
-      { "focus": "Internal Training" }
+    "type": "lead",
+    "description": "",
+    "leads": [
+      { "lead": "IT Strategy" },
+      { "lead": "Stakeholder Communication" },
+      { "lead": "Customer Support" },
+      { "lead": "Mentoring" },
+      { "lead": "Internal Training" }
     ]
   },
   {
-    "type": "domain",
-    "domains": [
-      { "domain": "Budgeting & Cost Review" },
-      { "domain": "Hardware & Software Lifecycle" }, 
-      { "domain": "User & Identity Management" },
-      { "domain": "Policy" }
+    "type": "security",
+    "description": "",
+    "security_list": [
+      { "security": "Security Awareness" },
+      { "security": "Identity & Access Management" }, 
+      { "security": "Endpoint & Email security" },
+      { "security": "MDM Device" }
     ]
   },
   {
     "type": "tools",
+    "description": "Nowadays, I tend to spend more time in spreadsheets, but here is a list of tools and services I have used in various roles, mostly as an Administrator",
     "tools": [
       { "tool": "M365" },
       { "tool": "Google Workspace" },
       { "tool": "Okta" },
+      { "tool": "Mimecast" },
       { "tool": "Jamf" },
-      { "tool": "Ticketing" }
+      { "tool": "AzureAD" },
+      { "tool": "Exchange Online" },
+      { "tool": "AWS" },
+      { "tool": "Zendesk" },
+      { "tool": "Freshdesk" },
+      { "tool": "Intune" },
+      { "tool": "Sophos Cloud" },
+      { "tool": "Confluence" },
+      { "tool": "Jira" },
+      { "tool": "Trello" },
+      { "tool": "Sophos XDR" },
+      { "tool": "Sophos Phish Threat" },
+      { "tool": "KnowBe4 Phishing" },
+      { "tool": "VMware vSphere" },
+      { "tool": "Cisco Meraki" },
+      { "tool": "Microsoft Pureview eDiscovery" },
+      { "tool": "ESXi" },
+      { "tool": "Dell Powerstore" },
+      { "tool": "Veeam" },
+      { "tool": "Zapier" },
+      { "tool": "BambooHR" },
+      { "tool": "Snipe-IT" },
+      { "tool": "Box" },
+      { "tool": "Miro" },
+      { "tool": "Lucidchart" },
+      { "tool": "TypeForm" }     
+
     ]
   }
   
